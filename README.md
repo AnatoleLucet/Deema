@@ -4,3 +4,5 @@
 A utility to resolve most non-vanilla JS import paths
 
 ## [Work in progress](https://github.com/benawad/destiny/issues/123)
+
+This repo is more of an experiment for now. We'll see if its concept become viable.
