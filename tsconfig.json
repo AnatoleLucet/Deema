@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "lib": ["ESNext", "ScriptHost"],
+    "module": "esnext",
+    "noEmit": true,
+    "resolveJsonModule": true,
+    "moduleResolution": "node",
+    "strict": true,
+    "target": "esnext",
+    "allowJs": true
+  },
+  "include": ["./**/*.*"],
+  "exclude": ["node_modules", "lib"]
+}
