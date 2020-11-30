@@ -1,4 +1,5 @@
 {
+  "version": "0.1.0",
   "name": "deema",
   "main": "lib/deema.js",
   "module": "lib/deema.mjs",
